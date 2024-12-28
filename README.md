@@ -1,2 +1,7 @@
-# genetic-search-aeropython
-My master's thesis. Application of Genetic Algorithmn (GA) search to aviation.  Barba's AeroPython model used.
+### Usage of genetic algorithm search in aerodynamics as a means of decreasing aircraft development costs in the aviation industry
+This repository contains the files that comprise my master's thesis, which was submitted at the Warsaw School of Economics.
+
+### Abstract
+The purpose of this work was to explore the possibility of implementing genetic algorithms in aircraft design, as a means of reducing development costs and times. A brief summary of the aviation industry was given, which concluded with the competition in the aircraft manufacturer sector and the increasing aircraft development prices. Potential steady 2D flow was introduced as an aerodynamic model and the panel method for an aerofoil as an example of computational method in aerodynamics. The genetic algorithm (GA) was introduced and described. An application of GA tools towards aerofoils was proposed. In Python, a computing environment was created to obtain solutions for aerofoils in potential steady 2D flow, based off [AeroPython](https://github.com/barbagroup/AeroPython). NACA0012 aerofoil was mutated to seed the first generation of solutions for GA. Multiple iterations of preliminary searches, including 2 parameter sweeps, were conducted with the proposed GA implementation over the aerodynamic search space. The obtained results showed the strength of GA principles and the inherent difficulties of computational fluid dynamics (CFD).
+
+### Contents
